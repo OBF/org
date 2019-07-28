@@ -3,7 +3,7 @@ name: Onboarding new Board member
 about: Tasks and other items to be completed for on-boarding a new Board of Directors
   member
 title: Onboard [NAME HERE]
-labels: ''
+labels: 'onboarding'
 assignees: ''
 
 ---
