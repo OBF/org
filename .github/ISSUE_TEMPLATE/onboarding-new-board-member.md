@@ -12,3 +12,4 @@ assignees: ''
 * [ ] Add to shared Google Drive
 * [ ] Add to Github organization
 * [ ] Add to Keybase team(s)
+* [ ] Add to website editors
