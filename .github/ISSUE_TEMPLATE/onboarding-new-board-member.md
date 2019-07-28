@@ -13,3 +13,5 @@ assignees: ''
 * [ ] Add to Github organization
 * [ ] Add to Keybase team(s)
 * [ ] Add to website editors
+* [ ] Update website page(s) listing Board members
+* [ ] Announcement via blog post
